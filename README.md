@@ -1,6 +1,10 @@
 # learning journal
 *Hello everyone* 
-# My name is Gorob a
+# My name is Gorob 
+I am a mechatronics engeenering 25 years old 
+
+
+![image](https://www.eschoolnews.com/files/2018/10/growth-mindset.jpg)
 
 
 **Growth mindest** 
