@@ -8,6 +8,9 @@ Markdown is is a way to style text on the web. formatting words as bold or itali
 we use # #header
 
 
-**For forammting words as bold  :
+For forammting words as** bold ** :
 
 we use **before and after the text 
+
+**You can also create an inline link by wrapping link text in brackets [ ], 
+and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut command + k to create a link.
