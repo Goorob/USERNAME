@@ -1,5 +1,5 @@
 # learning markdown 
-# What is markdown ?
+# markdown 
 Markdown is is a way to style text on the web. formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. 
 
 
@@ -19,3 +19,5 @@ and then wrapping the URL in parentheses ( ). You can also use the keyboard shor
 
 
 we can quote text with a >
+and now i hope this is useful 
+for more information 
