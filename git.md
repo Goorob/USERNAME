@@ -14,7 +14,7 @@ Git can be installed in three ways:
 
 *You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
 
-***$ git clone https://github.com/test***
+ git clone
  *After you edit a file, Git flags it as modified because of changes made after the previous commit.
 You stage the modified file.Then, you commit staged changes.*
 
