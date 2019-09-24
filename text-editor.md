@@ -15,4 +15,6 @@ first of all there is a different types of text editor depending on how editing 
 
 1. Structure Editors
 
-i think 
+**I think choosing text  depends on a couple of factors, but primarily it comes down to personal preference but at the end you should use the text editor that makes you the most efficient.**
+
+
