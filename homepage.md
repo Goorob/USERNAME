@@ -1,2 +1,5 @@
-HELLO my name is gorob 
+## HELLO 
+### i get learn from this class how to add commit push 
+:) 
+
 
