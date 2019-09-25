@@ -18,5 +18,6 @@ For me growth mindest is to do a hard work to developed my skills and my self to
 
 | file name |  link |   
 | ----------- | ----------- |
-| markdown |[link](https://goorob.github.io/learning-journal/)learning_markdown |
-| terminal |[link](https://goorob.github.io/learning-journal/text-editor)  |
+| markdown |[link](https://goorob.github.io/learning-journal/maekdown)learning_markdown |
+| terminal |[link](https://goorob.github.io/learning-journal/text-editor)  | git |[link](https://goorob.github.io/learning-journal/git)|
+| terminal |[link](https://goorob.github.io/learning-journal/text-editor)  
