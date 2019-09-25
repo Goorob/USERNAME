@@ -15,3 +15,8 @@ For me growth mindest is to do a hard work to developed my skills and my self to
  1.  listen from anthor 
  1.  stop blaming your self 
 [My github](https://github.com/Goorob)
+
+| file name |  link |   
+| ----------- | ----------- |
+| markdown | https://goorob.github.io/learning-journal/learning_markdown |
+| terminal |https://goorob.github.io/learning-journal/text-editor  |
